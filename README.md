@@ -1,5 +1,5 @@
 # py-scraper
-This project uses python *Python 3.9.0*
+This project uses python *Python 3.8.6*
 ### Install following libraries
 
 * pip install facebook
